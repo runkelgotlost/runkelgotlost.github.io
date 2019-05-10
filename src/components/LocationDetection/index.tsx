@@ -27,8 +27,7 @@ export const LocationDetection = (props: LocationDetectionProps) => {
         if(locationDetected) {
             return (
                 <button className="btn btn-primary" onClick={detectUserLocation} style={{width: '100%'}}>
-                    <i className="icon icon-check"/>
-                    Standort Ermittelt</button>
+                    <i className="icon icon-check" style={{marginRight: '5px'}} />Lokalisiert</button>
             )
         } else
         if(isLoading) {
@@ -38,8 +37,8 @@ export const LocationDetection = (props: LocationDetectionProps) => {
         } else {
             return (
                 <button className="btn" onClick={detectUserLocation} style={{width: '100%'}}>
-                    <i className="icon icon-location"/>
-                     Standort Ermitteln
+                    <i className="icon icon-location" style={{marginRight: '5px'}} />
+                     Lokalisieren
                 </button>
             )
         }
