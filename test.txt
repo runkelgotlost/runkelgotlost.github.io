@@ -1,0 +1,369 @@
+typo3_syslog_entry{action="1", action_type="255", error_type="0", details="User msc logged in from 195.30.1.197 ()", timestamp="2019-05-09 01:46:48"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="[StaticInfoTables]: User msc has cleared the class cache", timestamp="2019-05-09 01:46:53"} 0
+typo3_syslog_entry{action="1", action_type="255", error_type="0", details="User nr logged in from 195.30.1.31 ()", timestamp="2019-05-09 02:06:03"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="[StaticInfoTables]: User nr has cleared the class cache", timestamp="2019-05-09 02:47:56"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1237900529: The argument \"additionalAttributes\" was registered with type \"array\", but is of type \"string\" in view helper \"TYPO3\\CMS\\Fluid\\ViewHelpers\\ImageViewHelper\" | InvalidArgumentException thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/fluid/Classes/Core/ViewHelper/AbstractViewHelper.php in line 423. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=web_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-09 02:48:59"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1237900529: The argument \"additionalAttributes\" was registered with type \"array\", but is of type \"string\" in view helper \"TYPO3\\CMS\\Fluid\\ViewHelpers\\ImageViewHelper\" | InvalidArgumentException thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/fluid/Classes/Core/ViewHelper/AbstractViewHelper.php in line 423. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=web_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-09 02:49:33"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1237900529: The argument \"additionalAttributes\" was registered with type \"array\", but is of type \"string\" in view helper \"TYPO3\\CMS\\Fluid\\ViewHelpers\\ImageViewHelper\" | InvalidArgumentException thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/fluid/Classes/Core/ViewHelper/AbstractViewHelper.php in line 423. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=web_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-09 02:50:23"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1237900529: The argument \"additionalAttributes\" was registered with type \"array\", but is of type \"string\" in view helper \"TYPO3\\CMS\\Fluid\\ViewHelpers\\ImageViewHelper\" | InvalidArgumentException thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/fluid/Classes/Core/ViewHelper/AbstractViewHelper.php in line 423. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=web_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-09 02:51:20"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1289386765: Could not analyse class: \"TYPO3\\CMS\\Fluid\\ViewHelpers\\LinkViewHelper\" maybe not loaded or no autoloader? Class TYPO3\\CMS\\Fluid\\ViewHelpers\\LinkViewHelper does not exist | TYPO3\\CMS\\Extbase\\Object\\Container\\Exception\\UnknownObjectException thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/extbase/Classes/Object/Container/ClassInfoFactory.php in line 37. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=web_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-09 03:06:43"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1289386765: Could not analyse class: \"TYPO3\\CMS\\Fluid\\ViewHelpers\\LinkViewHelper\" maybe not loaded or no autoloader? Class TYPO3\\CMS\\Fluid\\ViewHelpers\\LinkViewHelper does not exist | TYPO3\\CMS\\Extbase\\Object\\Container\\Exception\\UnknownObjectException thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/extbase/Classes/Object/Container/ClassInfoFactory.php in line 37. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=web_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-09 03:07:31"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"ACC Alpha select AMI, DE0007248643\" (tx_snfondsdb_domain_model_fonds:11) was updated. (Online).", timestamp="2019-05-09 03:39:02"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"Sparplaene_lohnen_sich.mp4\" (tx_snfondsdb_domain_model_video:71) was updated. (Online).", timestamp="2019-05-09 03:39:02"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"FWW FundStars ****\" (tx_snfondsdb_domain_model_fondsauszeichnung:205) was updated. (Online).", timestamp="2019-05-09 03:39:02"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="User nr has cleared the cache (cacheCmd=pages)", timestamp="2019-05-09 03:39:02"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"ACC Alpha select AMI, DE0007248643\" (tx_snfondsdb_domain_model_fonds:11) was updated. (Online).", timestamp="2019-05-09 03:41:10"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"Sparplaene_lohnen_sich.mp4\" (tx_snfondsdb_domain_model_video:71) was updated. (Online).", timestamp="2019-05-09 03:41:10"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"FWW FundStars ****\" (tx_snfondsdb_domain_model_fondsauszeichnung:205) was updated. (Online).", timestamp="2019-05-09 03:41:10"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="User nr has cleared the cache (cacheCmd=pages)", timestamp="2019-05-09 03:41:10"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"ACC Alpha select AMI, DE0007248643\" (tx_snfondsdb_domain_model_fonds:11) was updated. (Online).", timestamp="2019-05-09 03:46:16"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"Sparplaene_lohnen_sich.mp4\" (tx_snfondsdb_domain_model_video:71) was updated. (Online).", timestamp="2019-05-09 03:46:16"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"FWW FundStars ****\" (tx_snfondsdb_domain_model_fondsauszeichnung:205) was updated. (Online).", timestamp="2019-05-09 03:46:16"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="User nr has cleared the cache (cacheCmd=pages)", timestamp="2019-05-09 03:46:16"} 0
+typo3_syslog_entry{action="1", action_type="255", error_type="0", details="User msc logged in from 195.30.1.197 ()", timestamp="2019-05-09 04:12:09"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="[StaticInfoTables]: User msc has cleared the class cache", timestamp="2019-05-09 04:12:13"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"ACC Alpha select AMI, DE0007248643\" (tx_snfondsdb_domain_model_fonds:11) was updated. (Online).", timestamp="2019-05-09 04:59:55"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"Sparplaene_lohnen_sich.mp4\" (tx_snfondsdb_domain_model_video:71) was updated. (Online).", timestamp="2019-05-09 04:59:55"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"FWW FundStars ****\" (tx_snfondsdb_domain_model_fondsauszeichnung:205) was updated. (Online).", timestamp="2019-05-09 04:59:55"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="User nr has cleared the cache (cacheCmd=pages)", timestamp="2019-05-09 04:59:55"} 0
+typo3_syslog_entry{action="1", action_type="255", error_type="0", details="User nr logged in from 195.30.1.31 ()", timestamp="2019-05-10 09:10:35"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: syntax error, unexpected \"}\", expecting \";\" | ParseError thrown in file /home/www/ampega_internet_dev/html-data/typo3conf/ext/sn_fonds_reporter/Classes/Controller/FondsReportController.php in line 144. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 09:20:48"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="[StaticInfoTables]: User nr has cleared the class cache", timestamp="2019-05-10 09:21:06"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: Call to undefined function SN\\SnFondsReporter\\Controller\\docTypeGen() | Error thrown in file /home/www/ampega_internet_dev/html-data/typo3conf/ext/sn_fonds_reporter/Classes/Controller/FondsReportController.php in line 103. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 09:21:06"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: Call to undefined method TYPO3\\CMS\\Core\\Utility\\DebugUtility::var_dump() | Error thrown in file /home/www/ampega_internet_dev/html-data/typo3conf/ext/sn_fonds_reporter/Classes/Controller/FondsReportController.php in line 104. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 09:24:23"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SN\\Importer\\Task\\ImportTask, UID: 7", timestamp="2019-05-10 09:36:37"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Task executed. Class: SN\\Importer\\Task\\ImportTask, UID: 7", timestamp="2019-05-10 09:36:37"} 0
+typo3_syslog_entry{action="9", action_type="2", error_type="0", details="File saved to \"/mediapool/fonds/Blacklist/SII.txt\", bytes: 549, MD5: eb7268898719b3a4711f5948f0f134d0 ", timestamp="2019-05-10 09:38:18"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SN\\Importer\\Task\\ImportTask, UID: 7", timestamp="2019-05-10 09:38:35"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Task executed. Class: SN\\Importer\\Task\\ImportTask, UID: 7", timestamp="2019-05-10 09:38:35"} 0
+typo3_syslog_entry{action="4", action_type="2", error_type="0", details="File \"/mediapool/fonds/Import/SII/DE000A0DNVT1_SII.xlsx\" deleted", timestamp="2019-05-10 09:40:22"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SN\\Importer\\Task\\ImportTask, UID: 7", timestamp="2019-05-10 09:40:39"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Task executed. Class: SN\\Importer\\Task\\ImportTask, UID: 7", timestamp="2019-05-10 09:40:39"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1314516810: Folder \"/mediapool/fonds/Import/ETP/\" does not exist. | TYPO3\\CMS\\Core\\Resource\\Exception\\FolderDoesNotExistException thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/core/Classes/Resource/Driver/LocalDriver.php in line 285. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 10:02:39"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1314516810: Folder \"/mediapool/fonds/Import/ETP/\" does not exist. | TYPO3\\CMS\\Core\\Resource\\Exception\\FolderDoesNotExistException thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/core/Classes/Resource/Driver/LocalDriver.php in line 285. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 10:02:54"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1: PHP Warning: array_push() expects at least 2 parameters, 1 given in /home/www/ampega_internet_dev/html-data/typo3conf/ext/sn_fonds_reporter/Classes/Controller/FondsReportController.php line 142 | TYPO3\\CMS\\Core\\Error\\Exception thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/core/Classes/Error/ErrorHandler.php in line 111. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 10:06:39"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1: PHP Warning: join(): Argument must be an array in /home/www/ampega_internet_dev/html-data/typo3conf/ext/sn_fonds_reporter/Classes/Controller/FondsReportController.php line 144 | TYPO3\\CMS\\Core\\Error\\Exception thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/core/Classes/Error/ErrorHandler.php in line 111. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 10:07:14"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1: PHP Warning: explode() expects parameter 2 to be string, array given in /home/www/ampega_internet_dev/html-data/typo3conf/ext/sn_fonds_db/Classes/Domain/Repository/DokumentRepository.php line 198 | TYPO3\\CMS\\Core\\Error\\Exception thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/core/Classes/Error/ErrorHandler.php in line 111. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 10:09:03"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1: PHP Warning: explode() expects parameter 2 to be string, array given in /home/www/ampega_internet_dev/html-data/typo3conf/ext/sn_fonds_db/Classes/Domain/Repository/DokumentRepository.php line 198 | TYPO3\\CMS\\Core\\Error\\Exception thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/core/Classes/Error/ErrorHandler.php in line 111. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 10:10:10"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: #1: PHP Warning: explode() expects parameter 2 to be string, array given in /home/www/ampega_internet_dev/html-data/typo3conf/ext/sn_fonds_db/Classes/Domain/Repository/DokumentRepository.php line 198 | TYPO3\\CMS\\Core\\Error\\Exception thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/core/Classes/Error/ErrorHandler.php in line 111. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=tools_SnFondsReporterSnfondsreporter&moduleToken=--AnonymizedToken--", timestamp="2019-05-10 10:12:58"} 0
+typo3_syslog_entry{action="1", action_type="255", error_type="0", details="User msc logged in from 195.30.1.197 ()", timestamp="2019-05-10 10:28:02"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="[StaticInfoTables]: User msc has cleared the class cache", timestamp="2019-05-10 10:28:07"} 0
+typo3_syslog_entry{action="1", action_type="255", error_type="0", details="User nr logged in from 195.30.1.31 ()", timestamp="2019-05-10 12:44:47"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="Scheduler task \"TYPO3 Exporter - Data collection\" (UID: 15, Class: \"SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask\") was added", timestamp="2019-05-10 12:48:16"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 12:48:23"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: Class \"TYPO3\\CMS\\Core\\Database\\ConnectionPool\" not found | Error thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/core/Classes/Utility/GeneralUtility.php in line 4566. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=system_txschedulerM1&moduleToken=--AnonymizedToken--&tx_scheduler[execute][]=15", timestamp="2019-05-10 12:48:23"} 0
+typo3_syslog_entry{action="1", action_type="3", error_type="0", details="[StaticInfoTables]: User nr has cleared the class cache", timestamp="2019-05-10 12:49:44"} 0
+typo3_syslog_entry{action="2", action_type="1", error_type="0", details="Record \"400_HJB_de.pdf\" (sys_file_metadata:6583) was updated. (Online).", timestamp="2019-05-10 01:19:30"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:24:21"} 0
+typo3_syslog_entry{action="0", action_type="5", error_type="2", details="Core: Exception handler (WEB): Uncaught TYPO3 Exception: Class \"TYPO3\\CMS\\Core\\Database\\ConnectionPool\" not found | Error thrown in file /home/www/packages/live/typo3_src-7.6.32/typo3/sysext/core/Classes/Utility/GeneralUtility.php in line 4566. Requested URL: https://dev-ampega.spacenet.de/typo3/index.php?M=system_txschedulerM1&moduleToken=--AnonymizedToken--&tx_scheduler[execute][]=15", timestamp="2019-05-10 01:24:21"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:25:41"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Task executed. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:25:41"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:27:17"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Task executed. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:27:17"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:28:28"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Task executed. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:28:28"} 0
+typo3_syslog_entry{action="1", action_type="255", error_type="0", details="User ba logged in from 195.30.1.136 ()", timestamp="2019-05-10 01:30:35"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:32:25"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Task executed. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:32:25"} 0
+typo3_syslog_entry{action="0", action_type="4", error_type="0", details="[scheduler]: Start execution. Class: SpaceNet\\Typo3Prometheus\\Task\\MetricDataCollectionTask, UID: 15", timestamp="2019-05-10 01:37:25"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-core", ext_key="core", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-extbase", ext_key="extbase", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-fluid", ext_key="fluid", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-info", ext_key="info", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-info-pagetsconfig", ext_key="info_pagetsconfig", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-extensionmanager", ext_key="extensionmanager", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-lang", ext_key="lang", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-setup", ext_key="setup", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-rtehtmlarea", ext_key="rtehtmlarea", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-rsaauth", ext_key="rsaauth", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-saltedpasswords", ext_key="saltedpasswords", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-func", ext_key="func", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-wizard-crpages", ext_key="wizard_crpages", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-wizard-sortpages", ext_key="wizard_sortpages", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-about", ext_key="about", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-aboutmodules", ext_key="aboutmodules", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-backend", ext_key="backend", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-belog", ext_key="belog", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-beuser", ext_key="beuser", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-context-help", ext_key="context_help", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-cshmanual", ext_key="cshmanual", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-felogin", ext_key="felogin", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-filelist", ext_key="filelist", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-fluid-styled-content", ext_key="fluid_styled_content", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-frontend", ext_key="frontend", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-impexp", ext_key="impexp", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-install", ext_key="install", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-lowlevel", ext_key="lowlevel", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-recordlist", ext_key="recordlist", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-recycler", ext_key="recycler", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-reports", ext_key="reports", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-scheduler", ext_key="scheduler", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-sv", ext_key="sv", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-sys-note", ext_key="sys_note", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-t3editor", ext_key="t3editor", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-t3skin", ext_key="t3skin", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-taskcenter", ext_key="taskcenter", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-tstemplate", ext_key="tstemplate", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-version", ext_key="version", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-viewpage", ext_key="viewpage", ext_version="7.6.32", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="friendsoftypo3/jumpurl", ext_key="jumpurl", ext_version="7.6.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="friendsoftypo3/tt-address", ext_key="tt_address", ext_version="3.2.1", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="directmailteam/direct-mail", ext_key="direct_mail", ext_version="5.1.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="directmail_personalization", ext_key="directmail_personalization", ext_version="1.1.3", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="sn_dm_recipient_lists", ext_key="sn_dm_recipient_lists", ext_version="3.0.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="sjbr/static-info-tables", ext_key="static_info_tables", ext_version="6.3.10", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="sn_fonds_db", ext_key="sn_fonds_db", ext_version="1.0.5", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="sn_fonds_reporter", ext_key="sn_fonds_reporter", ext_version="1.0.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="aoe/aoe_ipauth", ext_key="aoe_ipauth", ext_version="1.0.2", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="arminvieweg/dce", ext_key="dce", ext_version="1.3.7", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="beechit/fal-securedownload", ext_key="fal_securedownload", ext_version="1.1.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="GridElementsTeam/Gridelements", ext_key="gridelements", ext_version="7.0.6-dev", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="causal/ig_ldap_sso_auth", ext_key="ig_ldap_sso_auth", ext_version="3.1.1", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="importer", ext_key="importer", ext_version="0.1.1", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="jonathanheilmann/jh_magnificpopup", ext_key="jh_magnificpopup", ext_version="1.0.1", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="koninklijke-collective/my-redirects", ext_key="my_redirects", ext_version="3.1.2", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="georgringer/news", ext_key="news", ext_version="5.3.3", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="phpexcel_service", ext_key="phpexcel_service", ext_version="1.8.1", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="in2code/powermail", ext_key="powermail", ext_version="3.9.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="dmitryd/typo3-realurl", ext_key="realurl", ext_version="2.1.5", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="b13/seo_basics", ext_key="seo_basics", ext_version="0.9.2", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="sn_config", ext_key="sn_config", ext_version="2.1.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="sn_contact", ext_key="sn_contact", ext_version="1.0.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="sn_gallery", ext_key="sn_gallery", ext_version="1.0.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="apache-solr-for-typo3/solr", ext_key="solr", ext_version="5.1.1", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="spacenet/typo3-prometheus", ext_key="typo3_prometheus", ext_version="0.1.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="fluidtypo3/vhs", ext_key="vhs", ext_version="3.1.0", ext_is_active="true"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-adodb", ext_key="adodb", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-css-styled-content", ext_key="css_styled_content", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-dbal", ext_key="dbal", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-documentation", ext_key="documentation", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="friendsoftypo3/extension-builder", ext_key="extension_builder", ext_version="8.10.2", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-feedit", ext_key="feedit", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-filemetadata", ext_key="filemetadata", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-form", ext_key="form", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-indexed-search", ext_key="indexed_search", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-indexed-search-mysql", ext_key="indexed_search_mysql", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-linkvalidator", ext_key="linkvalidator", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-opendocs", ext_key="opendocs", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="sn_slider", ext_key="sn_slider", ext_version="3.0.1", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-sys-action", ext_key="sys_action", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_installed_extension{ext_package_name="typo3/cms-workspaces", ext_key="workspaces", ext_version="7.6.32", ext_is_active="false"} 0
+typo3_status_report{status_title="Old XCLASS method used", status_type="core_status", status_message="", status_code="None"} 0
+typo3_status_report{status_title="XCLASS used", status_type="core_status", status_message="XCLASS can overwrite methods or classes of the core or other extensions", status_code="Your system registers XCLASS"} -2
+typo3_status_report{status_title="Extension compatibility6", status_type="core_status", status_message="", status_code="Disabled"} 0
+typo3_status_report{status_title="File System", status_type="core_status", status_message="", status_code="Writable"} 0
+typo3_status_report{status_title="Remaining updates", status_type="core_status", status_message="This installation is not configured for the TYPO3 version it is running", status_code="Update Incomplete"} 1
+typo3_status_report{status_title="TYPO3", status_type="core_status", status_message="The TYPO3 version you\"re using is not supported anymore", status_code="7.6.32"} 2
+typo3_status_report{status_title="System environment check", status_type="system_status", status_message="", status_code="45 Test(s)"} 0
+typo3_status_report{status_title="PHP peak memory usage", status_type="system_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="PHP Modules", status_type="system_status", status_message="", status_code="All required modules are installed."} 0
+typo3_status_report{status_title="Install Tool Password", status_type="security_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Install Tool", status_type="security_status", status_message="", status_code="Disabled"} 0
+typo3_status_report{status_title="Trusted Hosts Pattern", status_type="security_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Record registration via URL parameter starting sessions", status_type="security_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Admin User Account", status_type="security_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="File Deny Pattern", status_type="security_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title=".htaccess Upload Protection", status_type="security_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Backend user password hashes", status_type="security_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Cache Flooding Protection", status_type="security_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Reference Index", status_type="configuration_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Deprecation Log", status_type="configuration_status", status_message="", status_code="Disabled"} 0
+typo3_status_report{status_title="Permissions of created files", status_type="configuration_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Permissions of created directories", status_type="configuration_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Update status of typo3.org main repository extension list", status_type="extension_manager_status", status_message="The Main Repository extension list is older than 7 days", status_code="Extension list is not up to date!"} -2
+typo3_status_report{status_title="Security status of loaded extensions", status_type="extension_manager_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Security status of existing, but not loaded extensions", status_type="extension_manager_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Outdated status of loaded extensions", status_type="extension_manager_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Outdated status of existing, but not loaded extensions", status_type="extension_manager_status", status_message="", status_code="OK"} 0
+typo3_status_report{status_title="Files flagged as missing", status_type="file_abstract_layer_status", status_message="", status_code="None"} 0
+typo3_be_user{username="twall", is_admin="true", is_disabled="false", lang="de", email="twall@space.net", created_at="2010-05-11 11:30:57", last_login="2016-04-14 09:25:22"} 0
+typo3_be_user{username="borlich", is_admin="true", is_disabled="false", lang="de", email="borlich@space.net", created_at="2010-05-26 10:26:51", last_login="2016-04-05 01:34:41"} 0
+typo3_be_user{username="sduecker", is_admin="true", is_disabled="false", lang="de", email="spacenet", created_at="2010-06-08 10:42:30", last_login="2015-02-03 01:36:39"} 0
+typo3_be_user{username="msc_alt", is_admin="true", is_disabled="false", lang="de", email="msc@space.net", created_at="2010-07-09 07:51:47", last_login="2016-04-15 12:01:30"} 0
+typo3_be_user{username="bd", is_admin="true", is_disabled="false", lang="de", email="bd@space.net", created_at="2010-07-23 11:07:07", last_login="2014-04-08 10:28:20"} 0
+typo3_be_user{username="redakteur", is_admin="false", is_disabled="false", lang="de", email="agentur@space.net", created_at="1970-01-01 01:00:00", last_login="2016-07-12 01:42:04"} 0
+typo3_be_user{username="grs", is_admin="true", is_disabled="false", lang="de", email="grs@space.net", created_at="2010-10-27 08:20:00", last_login="2016-03-15 09:50:59"} 0
+typo3_be_user{username="aeberl", is_admin="true", is_disabled="false", lang="de", email="eberl@space.net", created_at="2010-10-27 08:22:05", last_login="2010-10-27 09:33:06"} 0
+typo3_be_user{username="_cli_scheduler", is_admin="false", is_disabled="false", lang="", email="", created_at="2013-06-06 02:37:44", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="fm", is_admin="true", is_disabled="false", lang="de", email="", created_at="2010-07-09 07:51:47", last_login="2014-12-11 04:06:03"} 0
+typo3_be_user{username="jm", is_admin="true", is_disabled="false", lang="", email="", created_at="2015-07-30 11:28:03", last_login="2015-07-30 11:34:00"} 0
+typo3_be_user{username="cth", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-04-13 02:23:14", last_login="2016-04-15 10:35:38"} 0
+typo3_be_user{username="sc-admin", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-30 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="msc", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-04-15 12:11:44", last_login="2019-05-10 10:28:02"} 0
+typo3_be_user{username="cth", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-04-15 12:16:10", last_login="2016-05-20 02:06:44"} 0
+typo3_be_user{username="borlich", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-04-15 12:16:32", last_login="2019-02-14 11:10:39"} 0
+typo3_be_user{username="aeberl", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-04-15 12:16:42", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="twall", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-04-15 12:17:26", last_login="2019-02-25 10:11:39"} 0
+typo3_be_user{username="grs", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-04-15 12:17:29", last_login="2016-12-13 04:04:30"} 0
+typo3_be_user{username="sduecker", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-04-15 12:17:32", last_login="2018-02-09 11:03:24"} 0
+typo3_be_user{username="jm", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-04-15 12:17:43", last_login="2019-05-03 09:00:06"} 0
+typo3_be_user{username="tla", is_admin="true", is_disabled="false", lang="de", email="", created_at="2016-08-18 11:17:11", last_login="2016-10-05 08:01:49"} 0
+typo3_be_user{username="kschumacher", is_admin="false", is_disabled="false", lang="de", email="klaus.schumacher@talanx.com", created_at="2016-07-12 03:15:46", last_login="2018-12-28 08:37:53"} 0
+typo3_be_user{username="npreuss", is_admin="false", is_disabled="false", lang="de", email="nina.preuss@talanx.com", created_at="2016-11-03 01:04:27", last_login="2017-08-08 10:43:30"} 0
+typo3_be_user{username="cwiese", is_admin="false", is_disabled="false", lang="de", email="claudia.wiese@talanx.com", created_at="2016-11-03 01:04:47", last_login="2017-10-02 09:55:55"} 0
+typo3_be_user{username="sroese", is_admin="false", is_disabled="false", lang="de", email="solveig.roese@talanx.com", created_at="2016-11-03 01:05:36", last_login="2018-09-14 11:14:38"} 0
+typo3_be_user{username="rleder", is_admin="false", is_disabled="false", lang="de", email="renate.leder@talanx.com", created_at="2016-11-03 01:07:13", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mschmidt", is_admin="false", is_disabled="false", lang="de", email="maria.schmidt@talanx.com", created_at="2016-11-03 01:09:02", last_login="2017-07-17 03:17:46"} 0
+typo3_be_user{username="espielmann", is_admin="false", is_disabled="false", lang="de", email="elisabeth.spielmann@talanx.com", created_at="2016-11-03 01:09:43", last_login="2018-11-15 11:22:55"} 0
+typo3_be_user{username="skuhnert", is_admin="false", is_disabled="true", lang="de", email="Suzi.Kuhnert@talanx.com", created_at="2016-07-12 03:17:52", last_login="2018-05-16 01:54:32"} 0
+typo3_be_user{username="ssperber", is_admin="false", is_disabled="false", lang="de", email="soeren.sperber@talanx.com", created_at="2016-07-12 03:19:08", last_login="2016-07-12 03:24:28"} 0
+typo3_be_user{username="_cli_phpunit", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-09-07 04:13:25", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="redakteur_tim", is_admin="false", is_disabled="false", lang="de", email="", created_at="2016-10-11 05:15:04", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="redakteur_tam", is_admin="false", is_disabled="false", lang="de", email="", created_at="2016-10-11 05:15:53", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ssc", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="RedirectedProfileFolders", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="me", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="jpd", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="is", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="aberger", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="marketingBSN", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="fa", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="shog", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="redakteur_acq", is_admin="false", is_disabled="false", lang="de", email="", created_at="2016-10-12 12:22:58", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="wd", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="jf", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mpj", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="adohlen", is_admin="false", is_disabled="false", lang="de", email="angela.dohlen@talanx.com", created_at="2016-11-03 01:02:19", last_login="2017-10-16 01:07:16"} 0
+typo3_be_user{username="marketing", is_admin="false", is_disabled="false", lang="de", email="marketing.aig@talanx.com", created_at="2016-11-03 12:58:26", last_login="2017-06-14 02:06:58"} 0
+typo3_be_user{username="msagner", is_admin="false", is_disabled="false", lang="de", email="madeline.sagner@talanx.com", created_at="2016-11-03 12:59:35", last_login="2018-06-20 04:57:48"} 0
+typo3_be_user{username="ttonn", is_admin="false", is_disabled="true", lang="de", email="tanja.tonn@talanx.com", created_at="2016-11-03 01:03:27", last_login="2017-04-12 10:05:55"} 0
+typo3_be_user{username="psc", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="jh", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="tho", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="cmm", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="tp", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sc", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="alb", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ml", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="chd", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="cal", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="wdm", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="svb", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="cs", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mas", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sschober", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="pmarx", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sh", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="yz", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sd", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="DateVaz01", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="uprabst", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="am", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="gert", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="fk", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mme", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="kts", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="rev", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="tc", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mpe", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ce", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ama", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="kla", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="rs", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="rf", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="nd", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="kba", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="agc", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="akrieger", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mbo", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="az", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sz", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mik", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mp", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="wk", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ast", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="yn", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="kh", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ssu", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="dh", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="nm", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="praktikant", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mz", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="yq", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="azu", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="yh", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="chb", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="stw", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mar", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ths", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ascherer", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="re", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ip", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="neko", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="aba", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="bmoggert", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="spacetest", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="dhe", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="tpr", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mmu", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mgr", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="hk", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="rmascia", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="jbs", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="twa", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sp1-acronis", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="jga", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="il", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="heinzoswald", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="wbridts", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="klk", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mkl", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="oka", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="bf", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sWeinholzner", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mrank", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="amo", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ebalaj", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="rob", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="rih", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="bw", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="nso", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="dm", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="amarquis", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="db", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="dpm-alerting", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ek", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sku", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mst", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="dsr", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="hmrobot", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mom", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="wsus-reporting", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="amanda", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="llrobot", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sortmail", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ucmservice", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="watchdog", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="datacentercj", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="spcadv", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ciso", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mle", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ohoffmann", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="mfe", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="tpa", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="nr", is_admin="true", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="2019-05-10 12:44:47"} 0
+typo3_be_user{username="mpi", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ba", is_admin="true", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="2019-05-10 01:30:35"} 0
+typo3_be_user{username="fb", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="jho", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="dr", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="tga", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="fg", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="idb", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="tbui", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="sih", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="ijoshi", is_admin="false", is_disabled="false", lang="", email="", created_at="2016-11-25 06:30:01", last_login="1970-01-01 01:00:00"} 0
+typo3_be_user{username="dschoenen", is_admin="false", is_disabled="false", lang="de", email="dirk.schoenen@talanx.com", created_at="2017-11-14 03:05:47", last_login="2017-11-21 09:28:11"} 0
+typo3_be_user{username="bwolfers", is_admin="false", is_disabled="false", lang="de", email="baerbel.wolfers@talanx.com", created_at="2017-02-20 03:59:09", last_login="2018-08-22 02:52:16"} 0
+typo3_be_user{username="ampegaweb", is_admin="false", is_disabled="false", lang="de", email="", created_at="2018-04-03 10:04:54", last_login="2019-01-02 02:12:35"} 0
+typo3_be_sessions_total
+typo3_fe_sessions_total
+typo3_fe_users_total 180
+typo3_report_age 4
+typo3_report_runtime 2080
+typo3_report_creation_date 1557488247
+typo3_repositories{label="syslog"} 68
+typo3_repositories{label="extension"} 82
+typo3_repositories{label="system_report"} 28
+typo3_repositories{label="backend"} 181
+typo3_repositories{label="frontend"} 2

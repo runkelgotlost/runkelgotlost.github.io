@@ -2,9 +2,14 @@ import React, {useEffect, useState} from 'react'
 
 import { LocationDetection } from "../LocationDetection";
 import { FileUploadComponent } from '../FileUpload';
+import { LostItems } from "../LostItems";
+import { SakeComponent } from "../Sake";
+
+
 import { createLocation } from "../../helpers/createLocation";
 import {LatLng} from "../../types";
 import {states} from "../../states";
+import {Item} from "../../other";
 
 interface FormComponentProps {
     onSubmit: () => void
@@ -16,6 +21,8 @@ export const FormComponent = (props: FormComponentProps) => {
     const [currentState, setCurrentState] = useState<string>("superDicht");
     const [picture, setPicture] = useState<any>();
     const [geoLocation, setGeoLocation] = useState<LatLng>({latitude: 0, longitude: 0});
+    const [destination, setDestination] = useState("");
+    const [lostItems, setLostItems] = useState<Item[]>([]);
 
     useEffect(() => {
        if(geoLocation.longitude !== 0 && geoLocation.longitude !== 0) {
@@ -27,7 +34,8 @@ export const FormComponent = (props: FormComponentProps) => {
 
     const handleFormSubmit = () => {
         if(allowedToSubmit) {
-            createLocation(geoLocation, currentState, picture).then(() => {
+            //@ts-ignore
+            createLocation(geoLocation, states[currentState].title, lostItems, destination, picture).then(() => {
                 props.onSubmit()
             })
         }
@@ -55,6 +63,12 @@ export const FormComponent = (props: FormComponentProps) => {
                         )
                     })}
                 </div>
+            </div>
+            <div className="card-body">
+                <LostItems onChange={setLostItems}/>
+            </div>
+            <div className="card-body">
+                <SakeComponent onChange={setDestination} />
             </div>
             <div className="card-body">
                 <FileUploadComponent onFileChange={setPicture} />

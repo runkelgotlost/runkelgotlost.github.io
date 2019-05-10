@@ -10,7 +10,9 @@ export interface RunkLocation {
     id?: number
     latitude: string
     longitude: string
-    state_id: string
+    state: string
+    lost_items: string
+    destination: string
     image: string
 }
 

@@ -1,4 +1,8 @@
 export const states = {
+    klinischTot: {
+        title: "Klinisch Tot",
+        image: "/images/super-dicht.jpeg"
+    },
     superDicht: {
         title: "Super Dicht",
         image: "/images/super-dicht.jpeg"
@@ -10,5 +14,5 @@ export const states = {
     normal: {
         title: "Normal",
         image: "/images/normal.jpeg"
-    }
+    },
 };
