@@ -1,13 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 import { FormComponent } from "./components/Form";
+import { ThankYouComponent } from './components/ThankYouComponent';
 
-const App: React.FC = () => {
-  return (
-      <FormComponent onSubmit={() => {
-          console.log('DoNE')
-      }}/>
-  );
+const App = () => {
+    const [showForm, setShowForm] = useState(true);
+    return showForm ? <FormComponent onSubmit={() => setShowForm(false)}/> : <ThankYouComponent onBack={() => setShowForm(true)}/>
 };
 
 export default App;
